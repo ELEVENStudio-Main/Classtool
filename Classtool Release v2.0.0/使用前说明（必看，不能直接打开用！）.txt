@@ -1,0 +1,8 @@
+Classtool By lijunhao2023
+核心功能，依据极域键盘漏洞，按5次shift可以立刻杀掉极域，广播时也能用
+1.在文件资源管理器中找到  C:\Windows\System32  ,找到"sethc.exe"，右键获得权限，删除该文件
+2.将解压后的文件"sethc.exe"放入 C:\ Windows\ System32中
+3.广播时按五次Shift即可立刻杀掉极域。
+4.注意:该文件不可改名！！！
+本软件仅供编程爱好者研究、学习，禁止用作任何商业用途，版权所有，侵权必究，最终解释权归lijunhao2023及其授权代表所有。
+COPYRIGHT 2021 lijunhao2023.
